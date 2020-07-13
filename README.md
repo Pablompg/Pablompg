@@ -1,14 +1,14 @@
 ### Hi there, I'm Pablo! 👋
 
-![](C:\Users\Pablompg\Documents\GitHub\Pablompg\somiedo-prismaticos-modificado.jpg)
+<img src="somiedo-prismaticos-modificado.jpg" style="zoom: 25%;" align="left" />
 
 I'm a (99%) Computer Scientist and (97%) Mathematician.
 
-<img src="C:\Users\Pablompg\Documents\GitHub\Pablompg\icons8-twitter-30.png" alt="icons8-twitter-" style="zoom:80%;" />You can reach me at: @Pablompg1
+<img src="https://img.icons8.com/fluent/100/000000/twitter.png" style="zoom:28%;" /> You can reach me at: @Pablompg1
 
-:computer: I’m currently working on: both of my degree's final projects
+:computer:  I’m currently working on: both of my degree's final projects
 
-<img src="C:\Users\Pablompg\Documents\GitHub\Pablompg\icons8-submit-resume-30.png" alt="icons8-submit-resume-" style="zoom:67%;" /> I'm actively: seeking employment
+<img src="https://img.icons8.com/fluent/48/000000/open-resume.png" style="zoom:50%;" /> I'm actively: seeking employment
 
 :heart_eyes: I love: coding, running and statistics
 
