@@ -2,11 +2,7 @@
 
 
 
-<p align="left">
-  <img src="Images/PancackesImage.png" alt="" width="700">
-</p>
-
-<img src="Pablompg/somiedo-prismaticos-modificado.jpg" style="zoom: 25%;" align="left" />
+![MyImage](https://github.com/Pablompg/Pablompg/blob/master/somiedo-prismaticos-modificado.jpg)
 
 I'm a (99%) Computer Scientist and (97%) Mathematician.
 
