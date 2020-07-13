@@ -1,6 +1,12 @@
 ### Hi there, I'm Pablo! 👋
 
-<img src="somiedo-prismaticos-modificado.jpg" style="zoom: 25%;" align="left" />
+
+
+<p align="left">
+  <img src="Images/PancackesImage.png" alt="" width="700">
+</p>
+
+<img src="Pablompg/somiedo-prismaticos-modificado.jpg" style="zoom: 25%;" align="left" />
 
 I'm a (99%) Computer Scientist and (97%) Mathematician.
 
