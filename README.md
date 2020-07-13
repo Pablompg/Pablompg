@@ -4,11 +4,11 @@
 
 ![Somiedo](https://github.com/Pablompg/Pablompg/blob/master/somiedo-prismaticos-modificado.jpg)
 
-I'm a (99%) Computer Scientist <img src="https://img.icons8.com/fluent/48/000000/under-computer.png" width="16"/> and (97%) Mathematician <img src="https://img.icons8.com/office/16/000000/tangent.png" width="16"/>.
+I'm a (99%) Computer Scientist <img src="https://img.icons8.com/fluent/48/000000/under-computer.png" width="16"/> and (97%) Mathematician <img src="https://img.icons8.com/office/16/000000/tangent.png" width="15"/>
 
 <img src="https://img.icons8.com/fluent/100/000000/twitter.png" width="18"/> You can reach me at: @Pablompg1
 
- <img src="https://img.icons8.com/office/16/000000/computer.png" width="18"/> I’m currently working on: both of my degree's final projects
+ <img src="https://img.icons8.com/office/16/000000/computer.png" width="16"/> I’m currently working on: both of my degree's final projects
 
 <img src="https://img.icons8.com/fluent/48/000000/open-resume.png" width="18"/> I'm actively: seeking employment
 
