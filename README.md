@@ -6,13 +6,13 @@
 
 I'm a (99%) Computer Scientist and (97%) Mathematician.
 
-<img src="https://img.icons8.com/fluent/100/000000/twitter.png" width="30"/> You can reach me at: @Pablompg1
+<img src="https://img.icons8.com/fluent/100/000000/twitter.png" width="26"/> You can reach me at: @Pablompg1
 
-:computer:  I’m currently working on: both of my degree's final projects
+:computer:   I’m currently working on: both of my degree's final projects
 
-<img src="https://img.icons8.com/fluent/48/000000/open-resume.png" width="30"/> I'm actively: seeking employment
+<img src="https://img.icons8.com/fluent/48/000000/open-resume.png" width="26"/> I'm actively: seeking employment
 
-:heart_eyes: I love: coding, running and statistics
+:heart_eyes:  I love: coding, running and statistics
 
 <!--
 **Pablompg/Pablompg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
