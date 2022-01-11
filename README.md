@@ -5,7 +5,6 @@
 ![Somiedo](https://github.com/Pablompg/Pablompg/blob/master/somiedo-prismaticos-modificado.jpg)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Pablompg_Pablompg&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Pablompg_Pablompg)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Pablompg_Pablompg)](https://sonarcloud.io/summary/new_code?id=Pablompg_Pablompg)
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=Pablompg_Pablompg)
 
 
 I'm a Computer Engineer <img src="https://img.icons8.com/fluent/48/000000/under-computer.png" width="16"/> and Mathematician <img src="https://img.icons8.com/office/16/000000/tangent.png" width="15"/>
